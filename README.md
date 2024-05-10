@@ -15,6 +15,8 @@
 ## 运行效果
 <img src="https://github.com/alicema-creator/Python-Django-Html-River-Garbage-Identification-Webpage-System/blob/main/screenshot/1.png" width="500"></a>
 
+## 原理图
+<img src="https://github.com/alicema-creator/Python-Django-Html-River-Garbage-Identification-Webpage-System/blob/main/screenshot/55.png" width="500"></a>
 
 
 ## 在线协助
